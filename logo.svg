@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <rect width="1000" height="1000" fill="#050505"/>
+  <circle cx="500" cy="500" r="450" fill="none" stroke="#F4BD4F" stroke-width="34"/>
+  <g fill="#F4BD4F" font-family="Arial, Helvetica, sans-serif" font-weight="800" text-anchor="middle">
+    <text x="500" y="270" font-size="112" letter-spacing="18">CREATIONS</text>
+    <text x="190" y="555" font-size="88" transform="rotate(-76 190 555)">FAB</text>
+  </g>
+  <g fill="none" stroke="#F4BD4F" stroke-width="24">
+    <circle cx="455" cy="435" r="82"/>
+    <circle cx="570" cy="435" r="82"/>
+    <circle cx="420" cy="690" r="130"/>
+    <circle cx="580" cy="690" r="130"/>
+  </g>
+  <g fill="#F4BD4F" font-family="Arial, Helvetica, sans-serif" font-weight="800" text-anchor="middle">
+    <text x="420" y="735" font-size="112">F</text>
+    <text x="580" y="735" font-size="112">C</text>
+  </g>
+  <path d="M455 353 l-42 -55 h84z" fill="#F4BD4F"/>
+  <path d="M570 353 l-42 -55 h84z" fill="#F4BD4F"/>
+</svg>
